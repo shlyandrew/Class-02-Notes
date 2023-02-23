@@ -1,2 +1,3 @@
-# Class-02-Notes
-The Coder's Computer Notes
+## Class-02-Notes
+### The Coder's Computer Notes
+`#ffffff`
