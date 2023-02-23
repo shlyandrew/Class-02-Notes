@@ -14,3 +14,4 @@
   - *There are a number of shells available that could be utilized to define how a terminal behaves.*
 
 
+[This is my link](https://shlyandrew.github.io/Class-02-Notes)
