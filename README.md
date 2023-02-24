@@ -1,4 +1,15 @@
 ## Class-02-Notes
+
+## Markdown Notes
+
++ **Markdown** is one of the world's most popular markup languages
+  - *It is used to create websites, documents, notes, books, presentations,, email messages, and technical documentation. 
+  - *Markdown is portable as it is an independent platform
+  - *It is everywhere and used in Websites like Reddit. Lots of desktops and webbased applications support it. 
+  - *It is a fast and easy way to take notes and create content for a website because Markdown was designed for the web. 
+  - *It is the ideal syntax for taking notes. 
+  
+
 ### The Coder's Computer Notes
 ### Command Lines
 
