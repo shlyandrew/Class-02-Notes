@@ -1,4 +1,4 @@
-## All Notes
+# All Notes
 
 ## Markdown Notes
 
