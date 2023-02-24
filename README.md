@@ -1,4 +1,4 @@
-## Class-02-Notes
+## All Notes
 
 ## Markdown Notes
 
