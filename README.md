@@ -24,5 +24,20 @@
   - *The Bourne again shell is one of the most common examples of a shell.*
   - *There are a number of shells available that could be utilized to define how a terminal behaves.*
 
+1. **What are four important features to look for in a text editor?**
++ 1.) code completion; 2.) syntax highlighting; 3.) a nice variety of themes (to reduce eye strain and fatigue); and 4.) the ability to choose from a healthy selection of extensions available when you need them.
+2. **What do the following commands do?**
++ pwd - tells you what your current or present working directory is.
++ ls - Provides a listing of the current location
++ cd - Change directory moves you to the specified location
++ mkdir - Creates a new directory
++ touch - Creates a new file
+3. **Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?**
++ (Arguments are extra instructions given to a command.)
++ cd projects - This moves you into the "projects" folder
++ mkdir new-project - This creates a new project directory
++ touch new-project/newfile.md - This creates the "newfile.md" folder within the "new-project" directory
++ cd .. - Moves you back into the last directory
++ ls projects/new-project - Lists everything within the "new-project" folder
 
 [This is my link](https://shlyandrew.github.io/all-class-notes/)
