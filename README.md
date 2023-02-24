@@ -25,4 +25,4 @@
   - *There are a number of shells available that could be utilized to define how a terminal behaves.*
 
 
-[This is my link](https://github.com/shlyandrew/all-class-notes.git)
+[This is my link](https://shlyandrew.github.io/all-class-notes/)
