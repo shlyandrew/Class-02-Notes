@@ -10,7 +10,7 @@
   - *It is the ideal syntax for taking notes. 
   
 
-### The Coder's Computer Notes
+## The Coder's Computer Notes
 ### Command Lines
 
 + A **command line** is also called a terminal. It is a texted-based interface that commands are entered into. 
